@@ -3,7 +3,7 @@ name: Bug report (preview build)
 about: Only use this if the bug is found in the preview build!
 title: ''
 labels: bug, previewbuild
-assignees: vingard
+assignees: avxsb
 
 ---
 
