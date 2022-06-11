@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve impulse
+about: Create a report to help us improve vanilla
 title: ''
 labels: bug
-assignees: vingard
+assignees: avxsb
 
 ---
 
