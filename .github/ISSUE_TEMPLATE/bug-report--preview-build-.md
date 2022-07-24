@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**impulse version (press F1 in the bottom right):**
+**Schema version (press F1 in the bottom right):**
 
 **Lua error**
 If applicable, post the error here in full.
