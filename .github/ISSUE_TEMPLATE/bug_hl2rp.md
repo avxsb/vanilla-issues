@@ -1,10 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve vanilla
+about: Create a report to help us improve Half-Life 2 Roleplay
 title: ''
 labels: bug
 assignees: avxsb
-
 ---
 
 **Describe the bug**
