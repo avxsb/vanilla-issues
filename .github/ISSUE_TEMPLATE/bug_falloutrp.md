@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug Report - Fallout Roleplay
 about: Create a report to help us improve Fallout Roleplay
 title: ''
 labels: bug
