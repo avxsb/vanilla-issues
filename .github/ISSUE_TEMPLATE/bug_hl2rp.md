@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report - Half-Life 2 Roleplay
 about: Create a report to help us improve Half-Life 2 Roleplay
 title: ''
 labels: bug
